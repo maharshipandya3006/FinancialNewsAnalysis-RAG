@@ -18,6 +18,7 @@ pip install -r requirements.txt
 streamlit run main.py
 
 Working:
+
 -->The web app will open in your browser.
 
 -->On the sidebar, you can input URLs directly.
