@@ -3,6 +3,9 @@
 # FinancialNewsAnalysis-RAG
 Built a financial news analysis tool using Retrieval-Augmented Generation (RAG), leveraging LangChain, FAISS vector search, and OpenAI APIs to extract, embed, and query insights from live article URLs with source-backed responses.
 
+<img width="1429" height="788" alt="image" src="https://github.com/user-attachments/assets/182217c5-f14f-457d-bfc8-a22c5142b26f" />
+
+
 Tech Stack - Python, LangChain, OpenAI, FAISS, Streamlit
 
 Features included:
