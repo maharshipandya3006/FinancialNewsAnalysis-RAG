@@ -9,9 +9,13 @@ Python, LangChain, OpenAI, FAISS, Streamlit
 
 # Features included:
 Chat with financial news articles via URLs
+
 Retrieval-Augmented Generation (RAG) pipeline
+
 FAISS vector search for efficient retrieval
+
 Source-based answers for transparency
+
 Streamlit interactive UI
 
 # Working:
