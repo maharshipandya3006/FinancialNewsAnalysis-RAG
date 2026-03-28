@@ -1,26 +1,20 @@
-# Built by Maharshi Pandya
-
-# FinancialNewsAnalysis-RAG
+# FinancialNewsAnalysis-RAG 📈
 Built a financial news analysis tool using Retrieval-Augmented Generation (RAG), leveraging LangChain, FAISS vector search, and OpenAI APIs to extract, embed, and query insights from live article URLs with source-backed responses.
 
 <img width="1429" height="788" alt="image" src="https://github.com/user-attachments/assets/182217c5-f14f-457d-bfc8-a22c5142b26f" />
 
 
-Tech Stack - Python, LangChain, OpenAI, FAISS, Streamlit
+# ⚙️ Tech Stack 
+Python, LangChain, OpenAI, FAISS, Streamlit
 
-Features included:
+# Features included:
 Chat with financial news articles via URLs
 Retrieval-Augmented Generation (RAG) pipeline
 FAISS vector search for efficient retrieval
 Source-based answers for transparency
 Streamlit interactive UI
 
-▶️ Run
-pip install -r requirements.txt
-
-streamlit run main.py
-
-Working:
+# Working:
 
 -->The web app will open in your browser.
 
@@ -35,3 +29,10 @@ Working:
 
 -->The FAISS index will be saved in a local file path in pickle format for future use.
 -->One can now ask a question and get the answer based on those news articles
+
+
+▶️ Run
+pip install -r requirements.txt
+
+streamlit run main.py
+
